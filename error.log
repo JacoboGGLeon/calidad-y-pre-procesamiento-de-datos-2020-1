@@ -1,0 +1,91 @@
+[W 19:34:23.566 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 19:34:29.956 LabApp] JupyterLab extension loaded from /home/vagrant/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 19:34:29.958 LabApp] JupyterLab application directory is /home/vagrant/anaconda3/share/jupyter/lab
+[I 19:34:32.848 LabApp] Serving notebooks from local directory: /vagrant/calidad-y-pre-procesamiento-de-datos-2020-1
+[I 19:34:32.861 LabApp] The Jupyter Notebook is running at:
+[I 19:34:32.862 LabApp] http://vagrant:8888/
+[I 19:34:32.863 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:34:32.927 LabApp] No web browser found: could not locate runnable browser.
+[W 19:34:36.202 LabApp] 404 GET /apple-touch-icon-precomposed.png (10.0.2.2) 507.90ms referer=None
+[W 19:34:36.336 LabApp] 404 GET /apple-touch-icon.png (10.0.2.2) 7.79ms referer=None
+[W 19:34:41.832 LabApp] Build recommended
+[W 19:34:41.833 LabApp] plotlywidget needs to be included in build
+[W 19:34:41.834 LabApp] @jupyter-widgets/jupyterlab-manager needs to be included in build
+[W 19:34:41.835 LabApp] jupyterlab-plotly needs to be included in build
+[W 19:34:43.959 LabApp] 404 GET /api/contents/data_mining_2020_1?1583955285605 (10.0.2.2): No such file or directory: data_mining_2020_1
+[W 19:34:44.211 LabApp] No such file or directory: data_mining_2020_1
+[W 19:34:44.219 LabApp] 404 GET /api/contents/data_mining_2020_1?1583955285605 (10.0.2.2) 276.76ms referer=http://localhost:8888/lab?
+[I 19:34:48.207 LabApp] Building jupyterlab assets (build:dev)
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/[I 19:34:57.531 LabApp] Kernel started: 8cf3c160-e1f6-44b7-aa7a-c9a7d40f5a1a
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\[W 19:35:02.351 LabApp] zmq message arrived on closed channel
+[W 19:35:02.410 LabApp] zmq message arrived on closed channel
+|[W 19:35:02.453 LabApp] zmq message arrived on closed channel
+[W 19:35:02.469 LabApp] zmq message arrived on closed channel
+/-\|/-\|/-\|/-\|/-\[I 19:35:04.492 LabApp] Starting buffering for 8cf3c160-e1f6-44b7-aa7a-c9a7d40f5a1a:69b51deb-b5d8-4f9a-8afc-f23fff0314a2
+|/-\|/-[I 19:35:05.256 LabApp] Kernel shutdown: 8cf3c160-e1f6-44b7-aa7a-c9a7d40f5a1a
+[W 19:35:05.267 LabApp] zmq message arrived on closed channel
+[W 19:35:05.283 LabApp] zmq message arrived on closed channel
+\[W 19:35:05.315 LabApp] zmq message arrived on closed channel
+[W 19:35:05.318 LabApp] zmq message arrived on closed channel
+[W 19:35:05.325 LabApp] zmq message arrived on closed channel
+[W 19:35:05.329 LabApp] zmq message arrived on closed channel
+[W 19:35:05.330 LabApp] delete /Untitled.ipynb
+[W 19:35:05.332 LabApp] Skipping trash for /vagrant/calidad-y-pre-procesamiento-de-datos-2020-1/Untitled.ipynb, on different device to home directory
+[W 19:35:05.347 LabApp] zmq message arrived on closed channel
+|/-\|/-\|/-\|/-\|/-\|/-\[I 19:35:07.993 LabApp] Kernel started: 2926d5f0-9639-486f-8e21-557f3539268c
+|/-\|/-\|/-\|/-\|/-[I 19:35:10.626 LabApp] Kernel started: aaa49b01-a3ea-4126-a355-a5ed80d49015
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|[I 19:35:18.099 LabApp] Kernel shutdown: aaa49b01-a3ea-4126-a355-a5ed80d49015
+/[W 19:35:18.189 LabApp] delete /Untitled1.ipynb
+[W 19:35:18.194 LabApp] Skipping trash for /vagrant/calidad-y-pre-procesamiento-de-datos-2020-1/Untitled1.ipynb, on different device to home directory
+-\|/-\|/-\|/-\|/[I 19:35:19.887 LabApp] Adapting from protocol version 5.0 (kernel 2926d5f0-9639-486f-8e21-557f3539268c) to 5.3 (client).
+[I 19:35:19.889 LabApp] Adapting from protocol version 5.0 (kernel 2926d5f0-9639-486f-8e21-557f3539268c) to 5.3 (client).
+[I 19:35:19.893 LabApp] Adapting from protocol version 5.0 (kernel 2926d5f0-9639-486f-8e21-557f3539268c) to 5.3 (client).
+[I 19:35:19.895 LabApp] Adapting from protocol version 5.0 (kernel 2926d5f0-9639-486f-8e21-557f3539268c) to 5.3 (client).
+-\|/-[I 19:35:20.451 LabApp] Starting buffering for 2926d5f0-9639-486f-8e21-557f3539268c:07993fd0-375a-4a37-ba79-2f3516b8ed64
+\|/-\[I 19:35:21.027 LabApp] Kernel shutdown: 2926d5f0-9639-486f-8e21-557f3539268c
+[W 19:35:21.047 LabApp] delete /Untitled2.ipynb
+[W 19:35:21.048 LabApp] Skipping trash for /vagrant/calidad-y-pre-procesamiento-de-datos-2020-1/Untitled2.ipynb, on different device to home directory
+|/-\|/-\|/[W 19:35:22.041 LabApp] Build failed, running a clean and rebuild
+[I 19:35:22.201 LabApp] Cleaning /home/vagrant/anaconda3/share/jupyter/lab...
+[I 19:35:22.206 LabApp] Success!
+[I 19:35:22.542 LabApp] Building jupyterlab assets (build:dev)
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[I 19:35:26.567 LabApp] Kernel started: fe109008-c608-4e92-91aa-0696fe34c4a2
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|[I 19:35:32.680 LabApp] Kernel started: da8dca49-8740-4f03-b5d2-b09961f5041a
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[W 19:35:37.763 LabApp] zmq message arrived on closed channel
+[W 19:35:37.820 LabApp] zmq message arrived on closed channel
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/[I 19:35:41.174 LabApp] Starting buffering for fe109008-c608-4e92-91aa-0696fe34c4a2:41fa4257-de6d-4530-b19a-eecd93b02cf6
+-\|/-\|/-\|/-\|/-\|/-\|/-[I 19:35:43.958 LabApp] Kernel shutdown: fe109008-c608-4e92-91aa-0696fe34c4a2
+\[W 19:35:44.247 LabApp] zmq message arrived on closed channel
+[W 19:35:44.279 LabApp] zmq message arrived on closed channel
+[W 19:35:44.281 LabApp] delete /Práctica 1.ipynb
+[W 19:35:44.287 LabApp] Skipping trash for /vagrant/calidad-y-pre-procesamiento-de-datos-2020-1/Práctica 1.ipynb, on different device to home directory
+|/[W 19:35:44.568 LabApp] zmq message arrived on closed channel
+[W 19:35:44.651 LabApp] zmq message arrived on closed channel
+-[W 19:35:44.719 LabApp] zmq message arrived on closed channel
+\[W 19:35:44.875 LabApp] zmq message arrived on closed channel
+|[W 19:35:44.892 LabApp] zmq message arrived on closed channel
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[I 19:35:48.281 LabApp] Kernel shutdown: da8dca49-8740-4f03-b5d2-b09961f5041a
+\[E 19:35:48.304 LabApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: da8dca49-8740-4f03-b5d2-b09961f5041a)
+|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[W 19:36:03.127 LabApp] 500 POST /lab/api/build?1583955288133 (10.0.2.2): npm dependencies failed to install
+[W 19:36:03.130 LabApp] npm dependencies failed to install
+[E 19:36:03.141 LabApp] {
+      "Host": "localhost:8888",
+      "Pragma": "no-cache",
+      "Accept": "*/*",
+      "X-Xsrftoken": "2|46e2de19|4de9097ed707b8795064e036497a11b9|1581604726",
+      "Accept-Encoding": "gzip, deflate",
+      "Cache-Control": "no-cache",
+      "Accept-Language": "en-us",
+      "Content-Type": "application/json",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15",
+      "Referer": "http://localhost:8888/lab?",
+      "Content-Length": "0",
+      "Connection": "keep-alive",
+      "Cookie": "_xsrf=2|46e2de19|4de9097ed707b8795064e036497a11b9|1581604726"
+    }
+[E 19:36:03.142 LabApp] 500 POST /lab/api/build?1583955288133 (10.0.2.2) 76917.97ms referer=http://localhost:8888/lab?
+[W 19:36:11.021 LabApp] Timeout waiting for kernel_info reply from aaa49b01-a3ea-4126-a355-a5ed80d49015
+[W 19:36:11.022 LabApp] Timeout waiting for kernel_info reply from aaa49b01-a3ea-4126-a355-a5ed80d49015
+[E 19:36:11.024 LabApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: aaa49b01-a3ea-4126-a355-a5ed80d49015)
+[E 19:36:11.026 LabApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: aaa49b01-a3ea-4126-a355-a5ed80d49015)
